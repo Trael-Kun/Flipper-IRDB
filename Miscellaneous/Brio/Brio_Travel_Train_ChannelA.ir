@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-# Brio BRI33505 Travel Train Model Train
+# Brio BRI33505 Travel Train Model Train Channel A
 # 
 name: Ffwd
 type: raw

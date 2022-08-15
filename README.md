@@ -1,6 +1,7 @@
 # Flipper-IRDB  
 
-A **maintained** collective of different IRs for the Flipper! _(Maintainers: [ezod](https://github.com/ezod), [UberGuidoZ](https://github.com/UberGuidoZ), [DedHedZed](https://github.com/dedhedzed), [E_Surge](https://github.com/ESurge), [Zecred](https://github.com/bussardrobbie), [SkeletonMan](https://github.com/SkeletonMan03/), [Lucaslhm](https://github.com/Lucaslhm), and many others)_
+A **maintained** collective of different IR filess for the Flipper!<br>
+_(Maintainers/Major contributors include: [Lucaslhm](https://github.com/Lucaslhm), [UberGuidoZ](https://github.com/UberGuidoZ), [DedHedZed](https://github.com/dedhedzed), [ezod](https://github.com/ezod), [E_Surge](https://github.com/ESurge), [Zecred](https://github.com/bussardrobbie), [SkeletonMan](https://github.com/SkeletonMan03/), [jaroslavmraz](https://github.com/jaroslavmraz), and many others)_
 
 ## Organization  
 
@@ -13,6 +14,25 @@ When adding remotes to this repo, it is helpful to ensure your device name(s) fo
 
 `LG_55UN7300AUD.ir`
 
+Please use this naming scheme for buttons.
+
+**FOR TV**
+
+POWER
+MUTE
+VOL+
+CH+
+VOL-
+CH-
+
+**FOR AC**
+
+POWER
+TEMP+
+TEMP-
+MODE
+SWING
+
 Lastly, it's helpful to add further information as a comment directly into the IR file if possible. Example:
 
 `Filetype: IR signals file`<br>
@@ -20,7 +40,7 @@ Lastly, it's helpful to add further information as a comment directly into the I
 `#`<br>
 `# Dynex EN-21669D TV` <---<br>
 `#`<br>
-`name: Power`<br>
+`name: POWER`<br>
 
 Make, model, link, or even a short description can be helpful if the name is changed or just in general!
 
